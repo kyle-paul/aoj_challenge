@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background-color: #000000;
+
+}
+#winText{
+	opacity: 0;
+	margin: 0 auto;
+}
+
+.audioPlayer{
+    display: block;
+    border-radius: 20px;
+    margin:0 auto;
+  }
